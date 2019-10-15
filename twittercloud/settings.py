@@ -25,7 +25,7 @@ SECRET_KEY = '@5pfru)xqcs#$pnxw=px8n)09e#!w9s_g!wsu9howdhnbl2m3t'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["http://mefa.pythonanywhere.com"]
 
 
 # Application definition
