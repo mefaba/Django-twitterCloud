@@ -1,7 +1,7 @@
 # Twittercloud 
 Twitter hesabınızın seçeneklerinden talep edebildiğiniz ve mailinize csv olarak gönderilen Twitter Arşiv dosyanızı upload ettiğinizde wordcloud'a dönüşütürüyor.
 
-#Yapılacaklar:
+##### Yapılacaklar:
 -Arka planda csv dosyasını okuyup, tweetleri kelimelerine ayırıp sayan fonksiyon geliştirilecek. -de,-da gibi ekler ve sık kullanılan gereksiz kelimeler temizlenecek.
 -Front End'te anasayfada iyileştirmeler yapılacak.
 
