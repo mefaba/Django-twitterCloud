@@ -3,6 +3,7 @@ Twitter hesabınızın seçeneklerinden talep edebildiğiniz ve mailinize csv ol
 ## Built With
 
 * [Django](https://docs.djangoproject.com/en/2.2/) - The web framework used
+* [Pandas](https://pandas.pydata.org/) - Used to clean and analyse data
 * [Anychart.js](https://api.anychart.com/) - Used to generate Wordcloud
 
 
